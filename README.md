@@ -3,7 +3,10 @@
 
 <div id="header" align="center">
 <img src="https://cdn.glitch.global/0274ea33-4baa-4c6b-b5da-053eb6d7ad1e/Blue%20Modern%20Technology%20Coding%20Logo.png?v=1671558378285" width="400" />
-<h1>Hola Devs</h1>
+<h1>yey Devs</h1>
+  <h3 align="center">Soy un apasionado programador,estudiante de ingeniería en ciencias de la computación en la universidad UNAN-Managua,pro activo y con muchas ganas de aprender y dispuesto a apoyar en cualquier tipo de proyectos
+  </h3>
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/qwetyxd?color=blue&style=social">
 </div>
 
 
