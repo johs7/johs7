@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-    <iframe src="https://giphy.com/embed/RMNhH5yD96j8l98U10" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pepephone-pepe-pepephone-inimitable-RMNhH5yD96j8l98U10">via GIPHY</a></p>
+<img src="https://cdn.glitch.global/0274ea33-4baa-4c6b-b5da-053eb6d7ad1e/Blue%20Modern%20Technology%20Coding%20Logo.png?v=1671558378285" width="200" />
 <h1>Hola Devs</h1>
 </div>
 
