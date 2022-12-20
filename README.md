@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-<img src="https://cdn.glitch.global/0274ea33-4baa-4c6b-b5da-053eb6d7ad1e/Blue%20Modern%20Technology%20Coding%20Logo.png?v=1671558378285" width="200" />
+<img src="https://cdn.glitch.global/0274ea33-4baa-4c6b-b5da-053eb6d7ad1e/Blue%20Modern%20Technology%20Coding%20Logo.png?v=1671558378285" width="400" />
 <h1>Hola Devs</h1>
 </div>
 
