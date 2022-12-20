@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-<img src="https://giphy.com/gifs/Pepephone-pepe-pepephone-inimitable-RMNhH5yD96j8l98U10" width="200" alt="">
+<img src="https://giphy.com/gifs/Pepephone-pepe-pepephone-inimitable-RMNhH5yD96j8l98U10" width="200" />
 <h1>Hola Devs</h1>
 </div>
 
