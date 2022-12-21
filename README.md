@@ -15,13 +15,15 @@
 
 </div>
 
-<h3>🏫Lenguajes y herramientas</h3>
-<div align="center>
+<h3 align="center" >🏫Lenguajes y herramientas</h3>
+<div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="" width="40"
     height="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="logo-html" width="40" height="40">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="logo-net" width="40" height="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="logo-sql" width="40" height="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" />
+                                                                                                                  
 </div>
 
 
