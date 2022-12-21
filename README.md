@@ -33,6 +33,7 @@
   
  
 [![johs7 GitHub stats](https://github-readme-stats.vercel.app/api?username=johs7)](https://github.com/johs7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johs7&hide=javascript,html)](https://github.com/johs7/github-readme-stats)
 
 
 
