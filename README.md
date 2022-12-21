@@ -16,7 +16,7 @@
 </div>
 
 <h3>🏫Lenguajes y herramientas</h3>
-<div>
+<div align="center>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="" width="40"
     height="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="logo-html" width="40" height="40">
@@ -24,9 +24,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="logo-sql" width="40" height="40">
 </div>
 
-<div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=johs7&theme=tokyonight_duo&border_radius=8.2&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  </div>
+
 <!--
 **johs7/johs7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
