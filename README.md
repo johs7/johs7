@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-<img src="https://cdn.glitch.global/0274ea33-4baa-4c6b-b5da-053eb6d7ad1e/Blue%20Modern%20Technology%20Coding%20Logo.png?v=1671558378285" width="400" />
+<img src="https://cdn.glitch.global/0274ea33-4baa-4c6b-b5da-053eb6d7ad1e/Blue%20Modern%20Technology%20Coding%20Logo.png?v=1671558378285" width="200" />
 <h1>yey Devs</h1>
   <h3 align="center">Soy un apasionado programador,estudiante de ingeniería en ciencias de la computación en la universidad UNAN-Managua,pro activo y con muchas ganas de aprender y dispuesto a apoyar en cualquier tipo de proyectos
   </h3>
@@ -25,6 +25,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" />
                                                                                                                   
 </div>
+
+   <h3 align="center" >Yo en github</h3>
+<div align="left">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=johs7&theme=tokyonight"/></a>
+ </div>
+  
+ 
+[![johs7 GitHub stats](https://github-readme-stats.vercel.app/api?username=johs7)](https://github.com/johs7/github-readme-stats)
+
 
 
 <!--
