@@ -1,5 +1,3 @@
-### Hey hey,hola a todos 👋
-
 
 <div id="header" align="center">
 <img src="https://cdn.glitch.global/0274ea33-4baa-4c6b-b5da-053eb6d7ad1e/logo%20moderno%20jr%20png.png?v=1672851687084" width="200" />
