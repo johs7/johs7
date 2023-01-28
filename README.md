@@ -25,7 +25,7 @@
 </div>
 
    <h3 align="center" >Yo en github</h3>
-<div align="left">
+<div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=johs7&theme=tokyonight"/></a>
  </div>
   
