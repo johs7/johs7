@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-<img src="https://cdn.glitch.global/0274ea33-4baa-4c6b-b5da-053eb6d7ad1e/logo%20moderno%20jr%20png.png?v=1672851687084" width="200" />
+<img src="https://cdn.glitch.global/579e7c11-4417-448c-878f-39253807ca86/logo_jr_png_letras_blancas-removebg-preview.png?v=1673029408935" width="200" />
 <h1>yey Devs</h1>
   <h3 align="center">Soy un apasionado programador,estudiante de ingeniería en ciencias de la computación en la universidad UNAN-Managua,pro activo y con muchas ganas de aprender y dispuesto a apoyar en cualquier tipo de proyectos
   </h3>
@@ -27,21 +27,7 @@
    <h3 align="center" >Yo en github</h3>
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=johs7&theme=tokyonight"/></a>
- </div>
-  
 
 
-<!--
-**johs7/johs7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johs7&layout=compact)](https://github.com/johs7/github-readme-stats)
+  </div>
