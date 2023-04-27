@@ -21,6 +21,4 @@
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=johs7&theme=tokyonight"/></a>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johs7&layout=compact)](https://github.com/johs7/github-readme-stats)
   </div>
