@@ -54,4 +54,9 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johs7&" alt="johs7" /></p>
+<div style="text-align: center;">
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johs7&" alt="johs7" />
+  </p>
+</div>
+
