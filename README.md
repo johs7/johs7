@@ -54,7 +54,6 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: center;">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johs7&" alt="johs7" />
-</div>
-
+</p>
