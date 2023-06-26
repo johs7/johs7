@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47cauu3wqxv8c4ckxjw67lz68v7vxk5p83qc2xt5ji&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="">
+</p>
+
 <h1 align="center">Hi 👋, I'm Johanssen</h1>
 <h3 align="center">A passionate Software developer from Nicaragua</h3>
 
