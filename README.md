@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **c#,dotnet,backend**
 
-- 📫 How to reach me **Roquejohanssen@gmail.com**
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
