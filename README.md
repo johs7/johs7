@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Johanssen</h1>
 <h3 align="center">A passionate Software developer from Nicaragua</h3>
 
-- 🔭 I’m currently working on [Lorinos Shop](https://github.com/johs7/Shop-in-ASP)
+
 
 - 💬 Ask me about **c#,dotnet,backend**
 
