@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Johanssen</h1>
 <h3 align="center">A passionate Software Developer from Nicaragua</h3>
 
-- 🔭 I’m currently working on **projects at IOON**
+- 🔭 I’m currently working on **projects at P.S**
 
 - 💬 Ask me about **Angular, TypeScript, MySQL, Ionic, C#, and Figma**
 
